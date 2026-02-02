@@ -43,22 +43,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌱 About Me
-
-> 🎓 **Aspiring Software Engineer | Learning to Build the Foundations of Scalable Systems**
-
-I'm currently on a journey to become a **Skilled Software Engineer**, developing strong fundamentals in **Java**, **Databases**, and **Backend Concepts**.  
-My goal is to understand **how systems work under the hood** and gradually move into **backend and full-stack development**.
-
-### 🎯 **What I'm Learned**
-- 💻 **Programming fundementals:** Java (Core + OOP + DSA)
-- 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
-- 🧩 **Frameworks:** Node.js, Express.js, SpringBoot (HTTP requests & RESTAPIs)
-- 🗄️ **Databases:** MySQL, MongoDB (NoSQL), ER Diagrams
-- ⚙️ **Concepts:** OOP, Basic Data Structures and Algorithms  
-- 🧠 **Tools:** Git & GitHub
----
-
 ## ⚡ Tech Stack & Tools
 
 <div align="start">
