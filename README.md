@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hello World, I'm **Sandun Dushmantha**
 
 <!--
 **SandunDushmanthaDev/SandunDushmanthaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +21,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Software+Engineer;Front-end+Developer;Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Always+Learning+and+Building+🚀" />
 </h1>
 
-<div align="center">
 
-<img src="https://i.ibb.co/hbX2xdf/GHDev-2025-12-12-13-44-48.jpg" width="100%" />
-
-# 👋 Hello World, I'm **Sandun Dushmantha**
 
 ## 💫 About Me  
 
