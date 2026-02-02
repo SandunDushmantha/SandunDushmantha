@@ -3,7 +3,7 @@
 # Hey There 👋, I'm **Sandun Dushmantha**
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Front-end+Developer;Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Always+Learning+and+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Full+Stack+Developer;Front+-+End+Developer+%7C+Back+-+End+Developer;Web+Developer+%7C+Web+Designer+%7C+Tech+Enthusiast;UX+Designer+%7C+UI+Designer;Database+Engineer;Always+Learning+and+Building+🚀" />
 </h1>
 
 <!--
