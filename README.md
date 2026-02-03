@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 [![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,angular,materialui&perline=20)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,express,spring,hibernate&perline=20)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,spring,express,hibernate&perline=20)](https://skillicons.dev)
 
 ### ⚙️ Build Tools
-[![Build Tools](https://skillicons.dev/icons?i=maven,npm,vite,pnpm&perline=20)](https://skillicons.dev)
+[![Build Tools](https://skillicons.dev/icons?i=maven,npm,vite,pnpm,gradle&perline=20)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
