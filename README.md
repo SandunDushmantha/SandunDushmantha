@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 <div align="start">
 
 ### 💻 Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,python,&perline=20)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp,cs&perline=20)](https://skillicons.dev)
 
 ### 🎨 Frontend Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=20)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,angular,materialui&perline=20)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,express,spring,hibernate&perline=20)](https://skillicons.dev)
