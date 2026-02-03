@@ -29,6 +29,8 @@
 ## 💫 About Me  
 
 - 🌱 I’m currently learning : **Full-Stack Development**
+- 💻 Passionate about **Website Development, Web Application Development, Software Development, Android Application Development**
+- 👯 Looking to collaborate on: **Open Source Projects**
 -  Current Project: **My Portfolio (Under Maintenance)**
 -  Goal: Join a **top global tech company**
 -  Ask me about: **Java, PHP, Web Development**
