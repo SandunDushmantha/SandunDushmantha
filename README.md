@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
 
 ### ☁️ DevOps
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,googlecloud,heroku&perline=20)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev)
 
 ### 🧰 Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstorm,figma&perline=20)](https://skillicons.dev)
