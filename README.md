@@ -12,7 +12,7 @@
 
 
 <!--
-
+👨‍💻 All of my projects are available at geekhirusha.orgfree.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -33,7 +33,7 @@
 - 👯 Looking to collaborate on: **Open Source Projects**
 -  Current Project: **My Portfolio (Under Maintenance)**
 -  Goal: Join a **top global tech company**
--  Ask me about: **Java, PHP, Web Development**
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `REACT`, `Java`, `MySQL`
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
 
