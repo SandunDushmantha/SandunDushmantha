@@ -30,6 +30,7 @@
 -  Current Project: **My Portfolio (Under Maintenance)**
 -  Goal: Join a **top global tech company**
 -  Ask me about: **Java, PHP, Web Development**
+- 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
 
   ## 🌐 Connect With Me
