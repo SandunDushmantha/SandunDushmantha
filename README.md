@@ -1,3 +1,5 @@
+<img src="https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png"/>
+
 <div align="center">
 
 # Hey There 👋, I'm **Sandun Dushmantha**
