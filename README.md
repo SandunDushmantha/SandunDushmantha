@@ -49,17 +49,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+Software+Engineer;🌱+Growing+One+Project+at+a+Time;❇️+One+Mind+Many+Code" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <em>Curious mind learning how software systems work - from logic to design.</em>
-</p>
-
-</div>
-
----
 
 ## ⚡ Tech Stack & Tools
 
