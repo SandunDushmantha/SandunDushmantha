@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 [![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp,cs&perline=20)](https://skillicons.dev)
 
 ### 🎨 Frontend Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,angular,materialui&perline=20)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery,nextjs,angular,materialui&perline=20)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,spring,express,hibernate&perline=20)](https://skillicons.dev)
@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 [![Build Tools](https://skillicons.dev/icons?i=maven,npm,vite,pnpm,gradle&perline=20)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev)
 
 ### ☁️ DevOps
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,cloudflare,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev)
 
-### 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstorm,figma&perline=20)](https://skillicons.dev)
+### 🧰 Tools / IDE
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,arduino,unity,visualstudio,powershell,stackoverflow,ps,wordpress,figma&perline=20)](https://skillicons.dev)
 
 </div>
 
