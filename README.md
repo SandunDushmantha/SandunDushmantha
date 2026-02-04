@@ -146,7 +146,7 @@
 </br>
 
 <p align="center">
-  &copy; 2026 [Sandun Dushmantha. All rights reserved.
+  &copy; 2026 Sandun Dushmantha. All rights reserved.
 </p>
 
 <p align="center">
