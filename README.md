@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+👨‍💻;+Full+Stack+Developer;Front+-+End+Developer+%7C+Back+End+Developer;Web+Developer+%7C+Web+Designer+%7C+Tech+Enthusiast;UX+Designer+%7C+UI+Designer;Mobile+Application+Developer;Game+Application+Developer;Database+Engineer;Always+Learning+and+Building+🚀" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SandunDushmanthaDev&label=Profile+Visitors&color=00FFFF&style=for-the-badge" alt="profile views" />
+</p>
 
 
 <!--
@@ -80,6 +83,12 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
+### 🎮 Contribution Game
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
 
 <div align="center">
 
@@ -95,7 +104,9 @@
 
 </div>
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
+</br>
+</br>
 
 <div align="center">
   &copy; 2026 Sandun Dushmantha. All rights reserved.
