@@ -103,7 +103,7 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 
 <div align="center">
 
