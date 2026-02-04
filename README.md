@@ -145,9 +145,9 @@
 </br>
 </br>
 
-<div align="center">
-  &copy; 2026 [Sandun Dushmantha](https://github.com/SandunDushmanthaDev). All rights reserved.
-</div>
+<p align="center">
+  &copy; 2026 [Sandun Dushmantha. All rights reserved.
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
