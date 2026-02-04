@@ -91,7 +91,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
-### 📈 Contribution Graph and GitHub Status 
+### 📈 Contribution Graph and GitHub Stats 
 </br>
 <div align="center">
 
@@ -103,7 +103,7 @@
 
 </div>
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repo
 
 <div align="center">
 
