@@ -28,12 +28,12 @@
 
 ## 💫 About Me  
 
-- 🌱 I’m currently learning : **Full-Stack Development**
-- 💻 Passionate about **Website Development, Software Development, Android Application Development**
+- 💻 Passionate about **Web Development, Software Development, Android Application Development**
 - 👯 Looking to collaborate on: **Open Source Projects**
+- 🌱 I’m currently learning :  `Python`, `Laravel`, `Next.js`,`C`,`C++`,`C#`,`Angular`,`Express`,`Vite`,`PNPM`,`Gradle`,`Docker`,`Unity`,`MongoDB`
 -  Current Project: **My Portfolio (Under Maintenance)**
 -  Goal: Join a **top global tech company**
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `REACT`, `Java`, `MySQL`
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `REACT`,`Node.js`,`Java`, `MySQL`
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
 
