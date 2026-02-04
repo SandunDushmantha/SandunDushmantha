@@ -20,7 +20,7 @@
 
 
 <!--
-👨‍💻 All of my projects are available at geekhirusha.orgfree.com
+🌐 All of my projects are available at geekhirusha.orgfree.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -46,8 +46,8 @@
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 🌱 I’m currently learning :  `Python`, `Laravel`, `Next.js`,`C`,`C++`,`C#`,`Angular`,`Express`,`Vite`,`PNPM`,`Gradle`,`Docker`,`Unity`,`MongoDB`
 - 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `REACT`,`Node.js`,`Java`, `MySQL`
--  Current Project: **My Portfolio (Under Maintenance)**
--  Goal: Join a **Top Global Tech Company**
+- 🌐 All of my projects are available **My Portfolio (Under Maintenance)**
+- 🌟 Goal: Join a **Top Global Tech Company**
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
   </br>
