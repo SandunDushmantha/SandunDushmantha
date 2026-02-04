@@ -146,7 +146,7 @@
 </br>
 
 <div align="center">
-  &copy; 2026 Sandun Dushmantha. All rights reserved.
+  &copy; 2026 [Sandun Dushmantha](https://github.com/SandunDushmanthaDev). All rights reserved.
 </div>
 
 <p align="center">
