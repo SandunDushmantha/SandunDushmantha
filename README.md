@@ -77,7 +77,7 @@
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,cloudflare,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev)
 
 ### 🧰 Tools / IDE
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,arduino,unity,visualstudio,powershell,stackoverflow,ps,wordpress,figma&perline=20)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,arduino,unity,visualstudio,androidstudio,powershell,stackoverflow,ps,wordpress,figma&perline=20)](https://skillicons.dev)
 
 </div>
 
