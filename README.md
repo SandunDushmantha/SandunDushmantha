@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandunDushmanthaDev&label=Profile+Visitors&color=00FFFF&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SandunDushmanthaDev&label=Profile+Visitors&color=blue&style=for-the-badge" alt="profile views" />
 </p>
 </h1>
 
@@ -106,7 +106,7 @@
 
 ### 🔝 Top Contributed Repo
 
-
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandunDushmanthaDev&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandunDushmanthaDev&theme=2077)
@@ -117,7 +117,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandunDushmanthaDev&theme=2077)
 
-
+</div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
@@ -133,21 +133,18 @@
   
 ### 💭 *"Every line of code I write teaches me something new."* ✨
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </br><br>
 
-**Thanks for visiting my profile! Let’s grow and code together! 🚀**
+**Thanks for visiting my profile! Let’s grow and code together! 🚀** </br>
 
 ⭐ **If you find my journey inspiring, star my repositories and connect!** ⭐
 
 </div>
 
-
 </br>
 
 <p align="center">
-  &copy; 2026 Sandun Dushmantha. All rights reserved.
-</p>
+  &copy; 2026 Sandun Dushmantha. All rights reserved. </br>
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
