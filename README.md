@@ -44,6 +44,9 @@
 -  Goal: Join a **Top Global Tech Company**
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
+  </br>
+   </br>
+    
 
  ## 🌐 Let's Connect & Collaborate
 <p align="center">
@@ -103,9 +106,17 @@
 
 ### 🔝 Top Contributed Repo
 
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandunDushmanthaDev&theme=2077)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandunDushmanthaDev&theme=2077)<br/> !-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandunDushmanthaDev&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandunDushmanthaDev&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandunDushmanthaDev&theme=2077)<br/> 
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandunDushmanthaDev&theme=2077)
+
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
