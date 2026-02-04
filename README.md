@@ -92,7 +92,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandunDushmanthaDev&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandunDushmanthaDev&theme=2077)<br/>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandunDushmanthaDev&theme=2077)<br/> !-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandunDushmanthaDev&theme=2077)
 
 
