@@ -2,16 +2,21 @@
 
 <div align="center">
 
-# Hey There 👋, I'm **Sandun Dushmantha**
+# Hey There  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> , I'm **Sandun Dushmantha**
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+👨‍💻;+Full+Stack+Developer;Front+-+End+Developer+%7C+Back+End+Developer;Web+Developer+%7C+Web+Designer+%7C+Tech+Enthusiast;UX+Designer+%7C+UI+Designer;Mobile+Application+Developer;Game+Application+Developer;Database+Engineer;Always+Learning+and+Building+🚀" />
-</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SandunDushmanthaDev&label=Profile+Visitors&color=00FFFF&style=for-the-badge" alt="profile views" />
 </p>
+</h1>
+
+
+
+
 
 
 <!--
@@ -40,8 +45,7 @@
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
 - 📫 How to reach me: **sandundushmanthadev@gmail.com**
 
-  ## 🌐 Connect With Me
-
+ ## 🌐 Let's Connect & Collaborate
 <p align="center">
   <a href="https://www.facebook.com/SandunDushmanthaRA"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sandu_dush"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -49,6 +53,9 @@
   <a href="https://discord.com/users/sandu_dush"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:sandundushmanthadev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@SandunDushmantha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.sandundushmantha.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </p>
 
 ---
