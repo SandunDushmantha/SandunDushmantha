@@ -65,8 +65,8 @@
 | 🚀 **Backend Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,spring,express,hibernate&perline=20)](https://skillicons.dev) |
 | ⚙️ **Build Tools**| [![Build Tools](https://skillicons.dev/icons?i=maven,npm,vite,pnpm,gradle&perline=20)](https://skillicons.dev) |
 | 🗄️ **Databases** |  [![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev) |
-| ☁️ **DevOps**|  [![DevOps](https://skillicons.dev/icons?i=aws,docker,cloudflare,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev) |
-| 🧰 **Tools / IDE** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,arduino,unity,visualstudio,androidstudio,powershell,stackoverflow,ps,wordpress,figma&perline=20)](https://skillicons.dev) |
+| ☁️ **Cloud & DevOps**|  [![DevOps](https://skillicons.dev/icons?i=aws,docker,cloudflare,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev) |
+| 🧰 **IDEs & Tools** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,arduino,unity,visualstudio,androidstudio,powershell,stackoverflow,ps,wordpress,figma&perline=20)](https://skillicons.dev) |
                                                                 
 </div>
 
