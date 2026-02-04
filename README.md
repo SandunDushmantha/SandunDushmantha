@@ -84,16 +84,22 @@
 
 
 
- ## 💰 You can Support My Journey
+ ### 💰 You can Support My Journey
  **If you like my work, consider buying me a coffee! ☕**</br></br>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandundushmantha)
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
+### 📈 Contribution Graph and GitHub Status 
+</br>
 <div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandunDushmanthaDev&theme=redical)](https://github.com/SandunDushmanthaDev)  
+![](https://github-readme-stats.vercel.app/api?username=SandunDushmanthaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SandunDushmanthaDev&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandunDushmanthaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandunDushmanthaDev&theme=redical)](https://github.com/SandunDushmanthaDev)  
 
 </div>
 
