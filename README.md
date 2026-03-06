@@ -42,7 +42,7 @@
 
 ## 💫 About Me  
 
-- 💻 Passionate about **Web Development, Software Development, Android Application Development**
+- 💻 Passionate about **Web Development, Software Development, Android Application Development, Game Application Development**
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 🌱 I’m currently learning :  `Python`,`C`,`C++`,`C#`, `Laravel`,`Next.js`,`Angular`,`Express`,`Vite`,`PNPM`,`Gradle`,`Docker`,`Unity`,`MongoDB`
 - 💬 Ask me about: `HTML`,`CSS`,`PHP`,`Java`,`JavaScript`,`Hibanate`,`REACT`,`Node.js`,`MySQL`
