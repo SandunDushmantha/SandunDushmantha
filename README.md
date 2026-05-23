@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandunDushmanthaDev&label=Profile+Visitors&color=blue&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SandunDushmantha&label=Profile+Visitors&color=blue&style=for-the-badge" alt="profile views" />
 </p>
 </h1>
 
