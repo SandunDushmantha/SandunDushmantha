@@ -49,7 +49,7 @@
 - 🌐 All of my projects are available **My Portfolio (Under Maintenance)**
 - 🌟 Goal: Join a **Top Global Tech Company**
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
-- 📫 How to reach me: **sandundushmanthadev@gmail.com**
+- 📫 How to reach me: **dushmanthasandundev@gmail.com**
   </br>
    </br>
     
@@ -60,7 +60,7 @@
   <a href="https://www.instagram.com/sandu_dush"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sandun-dushmantha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/sandu_dush"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:sandundushmanthadev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dushmanthasandundev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@SandunDushmantha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.sandundushmantha.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
@@ -101,12 +101,12 @@
 </br>
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=SandunDushmanthaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)  ![](https://github-readme-stats.vercel.app/api?username=SandunDushmanthaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SandunDushmanthaDev&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandunDushmanthaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=SandunDushmantha&limit=5&theme=dark&combine_all_yearly_contributions=true)  ![](https://github-readme-stats.vercel.app/api?username=SandunDushmantha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SandunDushmantha&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandunDushmantha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandunDushmanthaDev&theme=redical)](https://github.com/SandunDushmanthaDev)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandunDushmantha&theme=redical)](https://github.com/SandunDushmantha)  
 
 </div>
 
@@ -116,16 +116,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/SandunDushmanthaDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandunDushmanthaDev&show_icons=true&theme=default&include_all_commits=false&count_private=true&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SandunDushmanthaDev&layout=compact&langs_count=8&theme=default&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+  <a href="https://github.com/SandunDushmantha">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandunDushmantha&show_icons=true&theme=default&include_all_commits=false&count_private=true&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SandunDushmantha&layout=compact&langs_count=8&theme=default&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
   </a>
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandunDushmanthaDev&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandunDushmantha&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandunDushmanthaDev&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandunDushmanthaDev&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandunDushmantha&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandunDushmantha&theme=2077)
 
 </div>
 
